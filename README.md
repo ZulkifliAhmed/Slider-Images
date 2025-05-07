@@ -1,0 +1,1 @@
+I created an interactive image slider using JavaScript to enhance my skills in working with user interfaces and DOM manipulation. The slider allows users to smoothly browse through a collection of images, with the ability to navigate using Next and Previous buttons. It is also responsive to different screen sizes.
